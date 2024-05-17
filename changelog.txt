@@ -1,0 +1,35 @@
+V0.2
+-Se ha agregado busqueda por rango de direccion ip.
+-Se han corregido comandos erroneos.
+-Se han agregado excepciones a errores comunes.
+-Se ha mejorado la interaccion con la consola.
+
+V0.3
+-Se ha añadido busqueda de modelos.
+-Se ha agregado la verificacion de compatibilidad con equipos Cisco.
+(SG350, SG550)
+-Se ha agregado la verificacion de compatibilidad con equipos Dell.
+Futuros cambios:
+Agregar compatibilidad con equipos Dell y ampliar catalogo de equipos Cisco.
+
+V0.4
+-Se han corregido errores minimos.
+-Se ha agregado la verificacion de compatibilidad por version de firmware en switches Cisco.
+-Se ha agregado la verificacion de compatibilidad por version de firmware en switches Dell.
+-Se ha mejorado el codigo para una mejor lectura y escritura en futuros cambios.
+-Se ha preparado el codigo para incluir facilmente comandos de la marca Dell.
+Futuros cambios:
+Implementar comandos con equipos Dell.
+
+V0.5
+-Se han añadido mas verificaciones para evitar cualquier posible crasheo durante la ejecucion.
+-Se ha mejorado la verificacion de compatibilidad por version de firmware para evitar falsos positivos.
+-Se ha añadido el soporte a los modelos SG300, SG200, SG250.
+Futuros cambios:
+Implementar comandos para modelos SG200, SG300, SG500 con versiones de firmware antiguas.
+
+V0.6
+-Se han corregido errores
+-Se ha comentado el codigo para documentar su funcionamiento.
+Futuros cambios:
+Implementar comandos para modelos SG200, SG300, SG500 con versiones de firmware antiguas.
